@@ -24,6 +24,6 @@
     - I implemented a timeline component using `Sass` and `Bootstrap`
     - I implemented a `JS` filter for timeline items
     - I implemented some simple SVG animations too 
-- Contacts:
-  +5591999687592
+- Contacts:   
+  +5591999687592   
   cpicanco42@gmail.com
