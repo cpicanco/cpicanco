@@ -4,12 +4,14 @@
 - I develop software for researchers (I have a doctorate in Psychology, behavioral approach).
 - My recent works includes topics on behavioral simulations, discount/demand, matching-to-sample and schedules of reinforcement. 
 - I known:
-  - Git/GitHub
-  - Python (Pupil Labs, Matplotlib, Numpy, etc.)
-  - Free Pascal/Lazarus (mostly for desktop UI, some android using [CGE](https://castle-engine.io/) too)
-  - [Zmq](https://zeromq.org/)
+  - `Python` (Pupil Labs, Matplotlib, Numpy, etc.)
+  - `Git` (with commit standards)
+  - `GitHub`
+  - `Free Pascal`
+  - `Lazarus` (mostly for desktop UI, some android using [CGE](https://castle-engine.io/) too)
+  - [`Zmq`](https://zeromq.org/)
+  - `R`
   - OOP/Interfaces
-  - R
 - Also, I am proud to have written my portfolio and blog using:
   - `Sass`
   - `JS`
