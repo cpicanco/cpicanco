@@ -10,7 +10,13 @@
   - [Zmq](https://zeromq.org/)
   - OOP/Interfaces
   - R
-- Also, I am proud to have written my portfolio and blog using `Sass`, `Bootstrap`, `JS`, `Jekyll`, and `GitHub Pages`.
+- Also, I am proud to have written my portfolio and blog using:
+  - `Sass`
+  - `JS`
+  - `HTML 5`
+  - `Jekyll`
+  - `Bootstrap`
+  - `GitHub Pages`
   - Please, take a look: [Portfolio](https://rafael.picanco.nom.br). For this project:
     - I implemented mouse wheel events in an adapted version of `particles.js`
     - I implemented a timeline component using `Sass` and `Bootstrap`
