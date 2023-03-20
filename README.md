@@ -16,7 +16,7 @@
   - `Sass`
   - `JS`
   - `HTML 5`
-  - `Jekyll`
+  - `Jekyll` and `Liquid`
   - `Bootstrap`
   - `GitHub Pages`
   - Please, take a look: [Portfolio](https://rafael.picanco.nom.br). For this project:
