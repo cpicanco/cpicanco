@@ -2,7 +2,7 @@
 
 - I am looking for programming jobs (web, desktop or android).
 - I develop software for researchers (I have a doctorate in Psychology, behavioral approach).
-- My recent works includes topics on behavioral simulations, discount/demand, matching-to-sample and schedules of reinforcement. 
+- My recent works includes desktop programs for experimental tasks in topics such as discount/demand, matching-to-sample and schedules of reinforcement. 
 - I known:
   - `Python` (Pupil Labs, Matplotlib, Numpy, etc.)
   - `Git` (with commit standards)
